@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+No more capitals. Line indexed to be commited
+Line not indexed
